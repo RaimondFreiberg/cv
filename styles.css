@@ -42,17 +42,16 @@ padding-top: 100px;
   padding-bottom: 10px;
 
 
-
 }
 
 .top-flag{
   position: absolute;
-  right:300px;
-  top: 50px;
+  right:500px;
+  top: 70px;
 }
 
 .bottom-flag {
 position: absolute;
-left: 300px;
+left: 200px;
 bottom: 300px;
 }
